@@ -6,3 +6,5 @@ I have two computers. One is my project machine/home lab (Ubuntu), the other is 
 Now, I'm aware there's hardware that can do this, however it is a bit expensive and this is a easy solution until I can afford that hardware. 
 
 I also wanted to toy around with AHK and get to know it better.
+
+In the future, I will try to improve on this. If you would like to contribue, improve, or add anything, feel free!
