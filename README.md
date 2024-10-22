@@ -1,5 +1,5 @@
 # AHK-Dual-Monitor-Toggle-Script
-[An AutoHotkey (AHK)](https://www.autohotkey.com/) v2.0 script that toggles between using one and two monitors. Press the designated hotkey to quickly switch back and forth between a single display setup and an extended dual monitor configuration.
+[An AutoHotkey (AHK)](https://www.autohotkey.com/) v2.0 script that toggles between using one and two monitors on windows. Press the designated hotkey to quickly switch back and forth between a single display setup and an extended dual monitor configuration.
 You will need [NirCmd](https://www.nirsoft.net/utils/nircmd.html) installed for this script to work.
 
 This is customized for my work space to go down from 2->1, with the second monitor becoming primary, then revers back from 1->2 with the 'new' monitor swapping to primary. 
